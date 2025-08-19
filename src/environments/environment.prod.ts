@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  host: 'https://memeapi.smone.us',
+  host: 'http://52.175.37.38:8081',
 }
