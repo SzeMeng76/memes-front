@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm --registry https://registry.npmjs.org run build",
+  "outputDirectory": "dist/memes-fe",
+  "installCommand": "npm install --registry https://registry.npmjs.org"
+}
